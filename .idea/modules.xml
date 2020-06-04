@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CollapsingToolbarLayout_Along_with_Collapse_Behavior.iml" filepath="$PROJECT_DIR$/CollapsingToolbarLayout_Along_with_Collapse_Behavior.iml" group="CollapsingToolbarLayout_Along_with_Collapse_Behavior" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="CollapsingToolbarLayout_Along_with_Collapse_Behavior/app" />
+    </modules>
+  </component>
+</project>
